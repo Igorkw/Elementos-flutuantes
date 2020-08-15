@@ -1,0 +1,23 @@
+body{
+    background: #b9b9b97a;
+}
+#principal{
+    width: 920px;
+}
+.noticia{
+    background: #bebebe;
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left;
+}
+.imagem-galeria{
+    background: #ffffff;
+    width: 265px;
+    padding: 5px;
+    margin: 7px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
